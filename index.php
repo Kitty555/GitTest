@@ -9,4 +9,8 @@ echo "this is proc for design";
 function sumNumber($a, $b) {
     echo $a + $b;
 }
+
+echo "this is in core";
+echo "test to conflice";
+
 ?>
