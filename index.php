@@ -13,4 +13,8 @@ function sumNumber($a, $b) {
 echo "this is in design";
 echo "test to conflice";
 
+
+echo "this is in core";
+echo "test to conflice";
+
 ?>
