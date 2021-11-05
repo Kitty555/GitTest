@@ -1,6 +1,7 @@
 <?php
 /** This is for testing. */
-echo "core";
+echo "Test";
+echo "This is for core branch.";
 echo phpinfo();
 
 ?>
